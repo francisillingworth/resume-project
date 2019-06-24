@@ -118,7 +118,7 @@ header {
 }
 
 .logo {
-    background: url("../images/rosie.jpg");
+    background: url("../images/francis.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -151,6 +151,8 @@ header {
 
 #nav li {
     padding: 0;
+    margin-right: 0;
+    
 }
 
 .menuitem {
